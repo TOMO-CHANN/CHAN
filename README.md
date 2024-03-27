@@ -1,12 +1,17 @@
-</p>
+## `XLICON-MD`
+<div align="left">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines=Its XLICON-MD;Multi+Device+Whatsapp+Bot;Developed+By+SALMAN AHMAD" alt="Typing SVG" /></a>
+  
+  
 <p align="center">
   <a href="">
-    <img alt=Support height="300" src="https://telegra.ph/file/3c341828d86ee7a89c73f.jpg"> 
+    <img alt=Support height="300" src="https://i.imgur.com/tQQyQwp.jpeg"> 
     </p>
     <h1 align="center">XLICON-1.O<br></h1>
     
    </a>
 </p>
+  
 <p align="center">
 <a href="https://github.com/salmanytofficial"><img title="Author" src="https://img.shields.io/badge/XLICON-BOT-black?style=for-the-badge&logo=whatsapp"></a>
 <p/>
@@ -17,20 +22,28 @@
 <a href="https://github.com/salmanytofficial/XLICON-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/salmanytofficial/XLICON-MD?label=Watching&style=social"></a>
 </p>
 
+<p align="center"><img src="https://profile-counter.glitch.me/{salmanytofficial}/count.svg" alt="SALMAN AHMAD :: Visitor's Count" /></p>
+
+</br>
+
+<h2 align="center"> Star the repo if u like it🌟
+</h2>
+
 ## `Notice`
 
-If you re-upload  anything from my [@Slasher](github.com/ahil15) ***REPOSITORY*** give me ***Credit*** Else I can Take Legal Action On You!⚠
+This Bot Is `No More Working` Fine And Have Many `Errors` (like **Mongodb Error**)...
+<br>
 
----
+Don't Deploy This Bot...
+<br>
 
-## `Announment` 🤫
+You Guyz Can Try My Other Bots Like ***XLICON-V2*** & ***XLICON-V3*** Which Have Many `Advance Features` Then This Bot
+<br>
 
-***XLICON-2.O*** is now Officially Announced ✨
-
-<h1 align="center"> *XLICON-2.0*
-</h1>
-
-<p align="center"><a href="https://github.com/ahil15/Xlicon-v2"><img title="" src="https://img.shields.io/badge/XLICON%202.O-purple?style=for-the-badge&logo=github"></a>
+[*XLICON-V2*](https://github.com/salmanytofficial/XLICON-V2-MD)
+<br>
+[*XLICON-V3*](https://github.com/salmanytofficial/XLICON-V3-MD)
+<br>
 
 ---
 
@@ -43,11 +56,11 @@ If you re-upload  anything from my [@Slasher](github.com/ahil15) ***REPOSITORY**
 
 2. Scan the QR and upload the `Session` to ***XLICON-SECTION*** 
     <br>
-<a href='https://replit.com/@S4SalmanYt/XLICON-MD-QR-V5?v=1' target="_blank"><img alt='SCAN QR-1' src='https://img.shields.io/badge/Scan_qr-1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
+<a href='https://replit.com/@S4SalmanYt/XLICON-MD-PAIRING-SESSION?v=1' target="_blank"><img alt='SCAN QR-1' src='https://img.shields.io/badge/Scan_qr-1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
 
 3. Scan Qr
     <br>
-<a href='https://replit.com/@ahil15/XLICON-MD-QR-V4?v=1' target="_blank"><img alt='SCAN QR-2' src='https://img.shields.io/badge/Scan_qr-2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
+<a href='https://replit.com/@S4SalmanYt/XLICON-MD-QR-V4' target="_blank"><img alt='SCAN QR-2' src='https://img.shields.io/badge/Scan_qr-2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
 
 
 ## `Features`
@@ -61,18 +74,6 @@ If you re-upload  anything from my [@Slasher](github.com/ahil15) ***REPOSITORY**
 - Make your boring whatsapp fun
 
 
-## `Support`
-
-For support, email [ xheikhsalman4422@gmail.com ] or join our whatsapp group.
-
-
-<p align="center">
-  <a aria-label="Join our chats" href="https://chat.whatsapp.com/EjsQvJNcFGVCSfaBEIxZm2" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-<a aria-label="Join our chats" href="https://wa.me/923184070915?text=Hi!! SalmanAhmad Sir, I need Your Help" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</p>
 
 
 ## `MONGODB URL`
@@ -86,7 +87,7 @@ For support, email [ xheikhsalman4422@gmail.com ] or join our whatsapp group.
 
 
 ```
-mongodb+srv://salmanytofficial:s4salmanyt@cluster0.6wtgil3.mongodb.net/?retryWrites=true&w=majority
+mongodb+srv://salmanahmad:s4salmanyt@cluster0.szcj2eo.mongodb.net/?retryWrites=true&w=majority
 ```
 
 | Parameter | Type     | Description                |
@@ -339,12 +340,49 @@ Choose your repo
 
 ## `Authors`
 
-- Owner [@salmanytoffficial](https://www.github.com/salmanytofficial)
+<div align="center">
+  
+| [![𝚂𝚊𝚕𝚖𝚊𝚗𝙾𝚏𝚏𝚒𝚌𝚒𝚊𝚕](https://github.com/salmanytofficial.png?lenght=50width=50)](https://github.com/salmanytofficial)|
+|----|
+| [ 𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿 ](https://github.com/salmanytofficial) |
+|  Owner, Developer, Bug Fixer, Maintainer, updates |
 
-- C.Owner [@Slasher](https://www.github.com/ahil15)
+<br>
+  
+| [![SlasherOfficial](https://github.com/Maher-Zubair.png?lenght=50width=50)](https://github.com/Maher-Zubair) |
+|----|
+| [ 𝙈𝙀𝙃𝘼𝙍 𝙕𝙐𝘽𝘼𝙄𝙍 ](https://github.com/Maher-Zubair) |
+|  Co.Owner , Bug Fixer, |
+
+  </div>
+  
+   
+  </br> 
+
+  ## `Support`
+
+For support, email [ xheikhsalman4422@gmail.com ] or join our whatsapp group.
 
 
-<h2 align="left">  Reminder
+<p align="center">
+  <a aria-label="Join our chats" href="https://chat.whatsapp.com/C4ivwZKuh5bLJkqfYNPQsk" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+<a aria-label="Join our chats" href="https://wa.me/923184070915?text=Hi!! SalmanAhmad Sir, I need Your Help" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</p>
+
+**Buy Me a Coffee**: Your support will help me stay motivated and continue working on exciting projects like this one.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/ahmmikun">
+  <img src="https://i.ibb.co/KNnhcvX/bmc-button.png" alt="Buy Me Coffee" height="40" width="150" style="margin-left: 60px;">
+</a>
+
+
+</br>
+
+
+<h2 align="center">  Reminder
 </h2>
    
 - This bot is not made by `WhatsApp Inc.` So misusing the bot might `ban` your `WhatsApp account!`(Though your WhatsApp account can be unbanned only once.)
@@ -358,21 +396,19 @@ Choose your repo
 <h1 align="left">  ✨Spacial Thanks To🎯
 </h1>
 
-* [`🎐 Sampandey`](https://github.com/SamPandey001)
-* [`🎐 SuhailTechInfo`](https://github.com/SuhailTechInfo)
-* [`🎐 SLASHER`](https://github.com/ahil15)
-* [`🎐Kai..!!!`](https://github.com/Kai0071)
-* [`🎐 Abraham Dwamena`](https://github.com/abrahamdw882)
-* [`🎐 MR-KALINDU`](https://github.com/MR-KALINDU)
-* [`🎐 MAHER-ZUBAIR`](https://github.com/Maher-Zubair)
-* [`🎐 Pikachu`](https://github.com/PikaBotz)
-* [`🎐 AsliGuru`](https://github.com/Guru322)
+* [`🎐 Sampandey`](https://github.com/SamPandey001) ***For Sector MD Base***
+* [`🎐 SuhailTechInfo`](https://github.com/SuhailTechInfo) ***For Scripts and Debugging***
+* [`🎐 MAHER-ZUBAIR`](https://github.com/Maher-Zubair) ***For Fixing Plugins***
+* [`🎐 Abraham Dwamena`](https://github.com/abrahamdw882) ***For QR Ideas***
+* [`🎐 MR-KALINDU`](https://github.com/MR-KALINDU) ***For Fixing Errors***
+* 
 
 ---
 
 </p>
 <h1 align="center"> Thanks To  SuhailTechInfo
 </h1>
+
  <br><br>
 
 
